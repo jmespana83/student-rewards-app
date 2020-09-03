@@ -1,4 +1,4 @@
-# Tigers House
+# Students House
 **A Harry Potter themed point tracker application written in Python!**
 
 ## Several things to Note:
