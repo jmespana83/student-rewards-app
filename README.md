@@ -29,7 +29,7 @@ For more information on how to install and use PopSQL, please check out [PopSQL 
 ### MacOS & Linux Distributions
 Download the project folder, drag and drop it from Downloads to **Desktop**. If the folder is in a zipped state, unzip it by double clicking the folder. Then, open **Terminal**. You can also clone this repository directly to your Desktop by running 
 ```
-cd ~/Desktop && git clone https://github.com/jpham93/student-rewards-app.git
+cd ~/Desktop && git clone https://github.com/jmespana83/student-rewards-app.git
 ```
 From **Terminal**, type in `cd ~/Desktop/student-rewards-app` and Enter. Once inside the folder, run the program by typing inside the Terminal:
 ```
